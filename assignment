@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("Manasa cs\n");
+return 0;
+}
